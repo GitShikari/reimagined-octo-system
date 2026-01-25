@@ -1,3 +1,4 @@
 pyrogram
 requests
 urllib3
+dotenv
